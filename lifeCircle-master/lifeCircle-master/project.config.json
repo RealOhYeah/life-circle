@@ -1,0 +1,194 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "bundle": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "useApiHostProcess": false
+  },
+  "appid": "wx1d8f61367fce274b",
+  "projectname": "%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1",
+  "libVersion": "2.15.0",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate/",
+  "compileType": "miniprogram",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "pages/work/work",
+          "pathName": "pages/work/work",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xianzhi/xianzhi",
+          "pathName": "pages/xianzhi/xianzhi",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/biaobai/biaobai",
+          "pathName": "pages/biaobai/biaobai",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/temp/temp",
+          "pathName": "pages/temp/temp",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/work/work",
+          "pathName": "pages/work/work",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/lost/lost",
+          "pathName": "pages/lost/lost",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xianzhi/xianzhi",
+          "pathName": "pages/xianzhi/xianzhi",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xianzhi_send/xianzhi_send",
+          "pathName": "pages/xianzhi_send/xianzhi_send",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/lost/lost",
+          "pathName": "pages/lost/lost",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/lost/lost",
+          "pathName": "pages/lost/lost",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xianzhi_send/xianzhi_send",
+          "pathName": "pages/xianzhi_send/xianzhi_send",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/lost/lost",
+          "pathName": "pages/lost/lost",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/send/send",
+          "pathName": "pages/send/send",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/temp/temp",
+          "pathName": "pages/temp/temp",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/send/send",
+          "pathName": "pages/send/send",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/biaobai/biaobai",
+          "pathName": "pages/biaobai/biaobai",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/biaobai/biaobai",
+          "pathName": "pages/biaobai/biaobai",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "srcMiniprogramRoot": "miniprogram/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
